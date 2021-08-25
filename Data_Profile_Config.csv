@@ -1,0 +1,7 @@
+Source,File Prefix,Column Name,Profile Function
+ACT,SECTORAPT,"Survived,Sex",CountDistinct
+ACT,SECTORAPT,"Cabin,Age",Completeness
+ACT,SECTORAPT,Fare,Mean
+GRDW,ASSET_CLASS,"SepalLengthCm,SepalWidthCm,PetalLengthCm,PetalWidthCm",Maximum
+GRDW,ASSET_CLASS,Species,CountDistinct
+GRDW,ASSET_CLASS,,Size
